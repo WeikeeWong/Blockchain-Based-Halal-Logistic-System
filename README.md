@@ -1,4 +1,4 @@
-# Blockchain-Based-Halal-Logistic-System
+# Blockchain Based Halal Logistic System
 
 ## Setup
 1. Download the Metamask Extension from chrome
